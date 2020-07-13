@@ -1,12 +1,12 @@
 ### Hi there 👋 I'm Nat 
 
-- 🇧🇷 Brazilian living in 🇮🇪 Ireland with @ruanLN
-- 🔭 I’m working at @RedHatOfficial
+- 🇧🇷 Brazilian living in 🇮🇪 Ireland with [Ruan](https://github.com/ruanLN)
+- 🔭 I’m working at [RedHatOfficial](https://github.com/RedHatOfficial)
 - 🌱 I’m always learning about everything! 
 - 💻 Programming languages: Python, Ruby, Go and Rust
 - ➰ DevOps Culture and Automantion lover!
 - 👯 I mentor other black women 
-- 📫 How to reach me: www.shebangbash.dev
+- 📫 How to reach me: [Site](www.shebangbash.dev),[Twitter](https://twitter.com/shebangbash), [TwitchTV](https://www.twitch.tv/shebangbash) and [YouTube](https://www.youtube.com/c/shebangbash)
 - 😄 Pronouns: They/Them
 - 🍲 Hobbies: cooking and draw
 - ⚡ Fun Facts: I'm addicted to cats and tattoos 
