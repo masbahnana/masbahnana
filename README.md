@@ -11,7 +11,7 @@
 - ⚡ Fun Facts: I'm addicted to cats and tattoos 
 - ✊🏿 I'm a Black in Tech
 
-### 📫 How to reach me
+### How to reach me
 [![SiteURL](https://img.shields.io/website?color=green&label=Site&style=plastic&url=https%3A%2F%2Fshebangbash.dev%2F)](https://shebangbash.dev/) 
 [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fshebangbash)](https://twitter.com/shebangbash) 
 [![Twitch](https://img.shields.io/twitch/status/shebangbash?style=plastic)](https://www.twitch.tv/shebangbash)
