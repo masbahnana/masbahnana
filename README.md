@@ -14,11 +14,9 @@
 ### 📫 How to reach me
 
 <a href="https://www.shebangbash.com"><img src="https://img.shields.io/website?color=green&label=Site&style=plastic&url=https%3A%2F%2Fshebangbash.dev%2F" alt="Site"></a>
-
 <a href="https://www.twiter.com/shebangbash"><img src="https://img.shields.io/twitter/follow/shebangbash?style=plastic" alt="Twitter"></a>
-
-<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=plastic&logo=appveyor" alt="Instagram"></a>
-
+<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/badge/Instagram-Follow-pink?style=plastic" alt="Instagram"></a>
 <a href="https://www.twitch.tb/shebangbashb"><img src="https://img.shields.io/twitch/status/shebangbash?style=plastic" alt="Twitch"></a>
+<a href="https://www.youtube.com/c/shebangbash><img src="https://img.shields.io/youtube/views/shebangbash?style=plastic" alt="YouTube"></a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shebangbash)
