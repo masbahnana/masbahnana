@@ -15,6 +15,8 @@
 [![SiteURL](https://img.shields.io/website?color=green&label=Site&style=plastic&url=https%3A%2F%2Fshebangbash.dev%2F)](https://shebangbash.dev/) 
 [![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fshebangbash)](https://twitter.com/shebangbash) 
 [![Twitch](https://img.shields.io/twitch/status/shebangbash?style=plastic)](https://www.twitch.tv/shebangbash)
+
+[![shebangs github stats](https://github-readme-stats.vercel.app/api?username=shebangbash)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **shebangbash/shebangbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
