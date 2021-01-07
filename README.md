@@ -11,12 +11,11 @@
 - ⚡ Fun Facts: I'm addicted to cats and tattoos
 - ✊🏿 I'm a Black in Tech
 
-<<<<<<< HEAD
 ### 📫 How to reach me
 
 <a href="https://www.shebangbash.com"><img src="https://img.shields.io/website?color=green&label=Site&style=plastic&url=https%3A%2F%2Fshebangbash.dev%2F" alt="Site"></a>
-<a href="https://www.twiter.com/shebangbash"><img src="https://img.shields.io/twitter/url?color=blue&label=Twitter&logoColor=blue&style=plastic&url=https%3A%2F%2Ftwitter.com%2Fshebangbash" alt="Twitter"></a>
-<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.twiter.com/shebangbash"><img src="https://img.shields.io/twitter/follow/shebangbash?style=plastic" alt="Twitter"></a>
+<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.twitch.tb/shebangbashb"><img src="https://img.shields.io/twitch/status/shebangbash?style=plastic" alt="Twitch"></a>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shebangbash)
