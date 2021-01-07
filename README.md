@@ -3,8 +3,8 @@
 - 🇧🇷 Brazilian living in 🇮🇪 Ireland with [Ruan](https://github.com/ruanLN)
 - 🔭 I’m working at [RedHatOfficial](https://github.com/RedHatOfficial)
 - 🌱 I’m always learning about everything! 
-- 💻 Programming languages: Python, Ruby, Go and Rust
-- ➰ DevOps Culture and Automation lover!
+- 💻 Programming languages: Python and Ruby
+- ➰ Quality and DevOps Culture lover!
 - 👯 I mentor other black women 
 - 😄 Pronouns: They/Them
 - 🍲 Hobbies: cooking and draw
