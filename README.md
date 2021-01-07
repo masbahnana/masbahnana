@@ -17,7 +17,7 @@
 
 <a href="https://www.twiter.com/shebangbash"><img src="https://img.shields.io/twitter/follow/shebangbash?style=plastic" alt="Twitter"></a>
 
-<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=plastic-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/shebangbash"><img src="https://img.shields.io/instagram/follow/shebangbash?style=plastic" alt="Instagram"></a>
 
 <a href="https://www.twitch.tb/shebangbashb"><img src="https://img.shields.io/twitch/status/shebangbash?style=plastic" alt="Twitch"></a>
 
