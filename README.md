@@ -18,7 +18,7 @@
 
 
 
-![shebang github stats](https://github-readme-stats.vercel.app/api?username=shebangbash&show_icons=true&theme=radical)
+[![shebang github stats](https://github-readme-stats.vercel.app/api?username=shebangbash&show_icons=true&theme=radical)
 <!--
 **shebangbash/shebangbash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
