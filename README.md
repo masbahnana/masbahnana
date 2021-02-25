@@ -19,4 +19,3 @@
 <a href="https://www.twitch.tb/shebangbashb"><img src="https://img.shields.io/twitch/status/shebangbash?style=plastic" alt="Twitch"></a>
 <a href="https://www.youtube.com/c/shebangbash"><img src="https://img.shields.io/youtube/views/shebangbash?style=plastic" alt="YT"></a>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=shebangbash)
