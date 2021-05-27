@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Nat
+### Hi there 👋
 
 - 🇧🇷 Brazilian living in 🇮🇪 Ireland with [Ruan](https://github.com/ruanLN)
 - 🔭 I’m working at [RedHatOfficial](https://github.com/RedHatOfficial)
